@@ -15,14 +15,6 @@ Research Interests
 My research projects try to elucidate the brain network interactions supporting learning and adaptive behaviors, through the combination of multimodal techniques (MEG, intracranial EEG, LFP and fMRI), computational models of learning and tools for brain network analysis and modelling. 
 Since 2020, I am also involved in the developement of the EBRAINS research infrasctructure within the Human Brain Project.
 
-**Academic background**
-2002 PhD in Cognitive Neuroscience, SISSA-ISAS, Trieste, Italy
-1998 MSc in Physics, Imperial College, London, UK
-
-**Postdoctoral Training**
-2004-08 Post-doc at the INCM, Marseille, France
-2003-04 Post-doc at the ISC, Lyon, France
-2003 Post-doc at the CCS, Boca Raton, FL, USA
 
 
 A data-driven personal website

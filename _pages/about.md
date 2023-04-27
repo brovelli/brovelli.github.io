@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a [CNRS](https://www.cnrs.fr/fr) research director in cognitive computational neuroscience and I coordinate the [BraiNets team](https://brainets.github.io/) (Brain Networks: From Neural Computations to Cognition) at the _Institut de Neurosciences de la Timone_ ([INT](https://www.int.univ-amu.fr/)).
+I am a [CNRS](https://www.cnrs.fr/fr) research director in cognitive computational neuroscience and I coordinate the [BraiNets team](https://brainets.github.io/) (Brain Networks: from neural computations to cognition) at the _Institut de Neurosciences de la Timone_ ([INT](https://www.int.univ-amu.fr/)).
 
 Research Interests
 ------

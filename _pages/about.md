@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Brain Networks and Learning"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,22 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am a [CNRS](https://www.cnrs.fr/fr) research director in cognitive computational neuroscience and I coordinate the [BraiNets team](https://brainets.github.io/) (Brain Networks: From Neural Computations to Cognition) at the _Institut de Neurosciences de la Timone_ ([INT](https://www.int.univ-amu.fr/)).
+
+Research Interests
+------
+My research projects try to elucidate the brain network interactions supporting learning and adaptive behaviors, through the combination of multimodal techniques (MEG, intracranial EEG, LFP and fMRI), computational models of learning and tools for brain network analysis and modelling. 
+Since 2020, I am also involved in the developement of the EBRAINS research infrasctructure within the Human Brain Project.
+
+**Academic background**
+2002 PhD in Cognitive Neuroscience, SISSA-ISAS, Trieste, Italy
+1998 MSc in Physics, Imperial College, London, UK
+
+**Postdoctoral Training**
+2004-08 Post-doc at the INCM, Marseille, France
+2003-04 Post-doc at the ISC, Lyon, France
+2003 Post-doc at the CCS, Boca Raton, FL, USA
+
 
 A data-driven personal website
 ======

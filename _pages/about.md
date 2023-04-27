@@ -8,18 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a [CNRS](https://www.cnrs.fr/fr) research director in cognitive computational neuroscience and I coordinate the [BraiNets team](https://brainets.github.io/) (Brain Networks: from neural computations to cognition) at the _Institut de Neurosciences de la Timone_ ([INT](https://www.int.univ-amu.fr/)).
+I am a [CNRS](https://www.cnrs.fr/fr) research director in cognitive computational neuroscience and I coordinate the [BraiNets team](https://brainets.github.io/) at the [Institut de Neurosciences de la Timone](https://www.int.univ-amu.fr/).
 
 Research Interests
 ------
-My research projects try to elucidate the brain network interactions supporting learning and adaptive behaviors, through the combination of multimodal techniques (MEG, intracranial EEG, LFP and fMRI), computational models of learning and tools for brain network analysis and modelling. 
-Since 2020, I am also involved in the developement of the EBRAINS research infrasctructure within the Human Brain Project.
+My research projects try to elucidate the role of brain network interactions in learning and adaptive behaviors, through the combination of multimodal techniques (MEG, intracranial EEG, LFP and fMRI), computational models of learning and neuroinformatics tools for brain network analysis and modelling. 
+Since 2020, I am also involved in the developement of the [EBRAINS](https://ebrains.eu/) research infrasctructure within the Human Brain Project.
 
-
-
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
 Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 

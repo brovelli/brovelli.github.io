@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Andrea Brovelli"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Andrea Brovelli"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Andrea Brovelli"
   avatar           : "Foto_Sito.jpg"
-  bio              : "Cognitive Computational Neuroscience"
+  bio              : "Researcher in Cognitive Computational Neuroscience"
   location         : "Marseille, France"
   employer         : 
   pubmed           : 

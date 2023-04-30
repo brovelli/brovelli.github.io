@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Andrea Brovelli"
   avatar           : "Foto_Sito.jpg"
-  bio              : "Researcher in Cognitive Computational Neuroscience"
-  location         : "Marseille, France"
+  bio              : "Brain Networks and Learning"
+  location         : #"Marseille, France"
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.fr/citations?user=vsskO0AAAAAJ&hl=en"

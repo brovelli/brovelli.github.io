@@ -12,10 +12,9 @@ I am a [CNRS](https://www.cnrs.fr/fr) research director in cognitive computation
 
 Research Interests
 ------
-My research projects investigates the role of brain interactions in goal-directed learning and adaptive behaviors. The main theoretical approaches and methodology characterizing my research projects are:
-- Functional Connectivity analysis and Effective connectivity models of brain interactions 
-- Information theoretical and network science approaches to brain networks
-- Multimodal brain imaging techniques (MEG, intracranial EEG, LFP and fMRI)
+My research projects investigates the role of brain interactions in goal-directed learning and adaptive behaviors. The main theoretical approaches and methodology characterizing my projects are:
+- Functional connectivity and information theoretical analysis of brain interactions
+- Multimodal brain imaging and neurophysiology (MEG, intracranial EEG, LFP and fMRI)
 - Computational models of human learning (Bayesian inference and reinforcement learning)
 
 Publications

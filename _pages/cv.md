@@ -23,7 +23,7 @@ email: andrea.brovelli@univ-amu.fr \
 phone: 0033 4 91 32 40 31 \
 orcid: https://orcid.org/0000-0002-5342-1330
 
-**Education** \
+**Education**
 2020	HDR - Habilitation à diriger des recherche (Neurosciences) from Aix-Marseille Université, Marseille, France \
 2002	PhD - PhD in Cognitive Neuroscience, International School for Advanced Studies (SISSA-ISAS), Trieste, Italy \
 1998 	Master - MSc in Physics, Imperial College, London, UK

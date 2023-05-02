@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 **Position** \
-_Directeur de Recherche de 2e classe _ (DR2) CNRS \
+_Directeur de Recherche de 2e classe_ (DR2) CNRS \
 Team coordinator « Brain Networks and Learning » (BraiNets) 
 
 **Contact** \
@@ -26,11 +26,11 @@ orcid: https://orcid.org/0000-0002-5342-1330
 **Education** \
 2020	HDR - Habilitation à diriger des recherche (Neurosciences) from Aix-Marseille Université, Marseille, France \
 2002	PhD - PhD in Cognitive Neuroscience, International School for Advanced Studies (SISSA-ISAS), Trieste, Italy \
-1998 	MSc - MSc in Physics, Imperial College, London, UK
+1998 	Master - MSc in Physics, Imperial College, London, UK
 
 **Postdoctoral Training** \
 2004-08 Post-doc at the INCM, Marseille, France \
-2003-04 Post-doc at the ISC, Lyon, France \ 
+2003-04 Post-doc at the ISC, Lyon, France \
 2003 Post-doc at the CCS, Boca Raton, FL, USA
   
 **Selected Publications** \

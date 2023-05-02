@@ -9,12 +9,22 @@ redirect_from:
 
 {% include base_path %}
 
+Position
+-----
+Directeur de Recherche de 2e classe (DR2) CNRS
+Team coordinator « Brain Networks and Learning » (BraiNets) 
+
+
 Contact
 ------
 Institut de Neurosciences de la Timone (UMR 7289)
+
 CNRS & Aix-Marseille University
+
 27 Boulevard Jean Moulin
+
 13385 Marseille Cedex 05
+
 France
 
 email: andrea.brovelli@univ-amu.fr

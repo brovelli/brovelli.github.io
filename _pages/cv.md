@@ -13,7 +13,7 @@ redirect_from:
 _Directeur de Recherche de 2e classe_ (DR2) CNRS \
 Team coordinator « Brain Networks and Learning » (BraiNets) 
 
-**Affiliation** \
+#### Affiliation
 Institut de Neurosciences de la Timone (UMR 7289) \
 CNRS & Aix-Marseille University \
 27 Boulevard Jean Moulin \

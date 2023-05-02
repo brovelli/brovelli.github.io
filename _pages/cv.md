@@ -11,7 +11,7 @@ redirect_from:
 
 Position
 ----- 
-Directeur de Recherche de 2e classe (DR2) CNRS /n
+Directeur de Recherche de 2e classe (DR2) CNRS \
 Team coordinator « Brain Networks and Learning » (BraiNets) 
 
 

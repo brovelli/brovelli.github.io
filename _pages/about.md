@@ -12,9 +12,17 @@ I am a [CNRS](https://www.cnrs.fr/fr) research director in cognitive computation
 
 Research Interests
 ------
-My research projects try to elucidate the role of brain network interactions in learning and adaptive behaviors, through the combination of multimodal techniques (MEG, intracranial EEG, LFP and fMRI), computational models of learning and neuroinformatics tools for brain network analysis and modelling. 
+My research projects investigates the role of brain interactions in learning and adaptive behaviors. The main theoretical approaches and methodology characterizing my research projects are:
+- Functional Connectivity analysis of brain networks
+- Information theory and network science
+- Multimodal brain imaging techniques (MEG, intracranial EEG, LFP and fMRI)
+- Computational models of human learning (Bayesian inference and reinforcement learning)
 Since 2020, I am also involved in the developement of the [EBRAINS](https://ebrains.eu/) research infrasctructure within the Human Brain Project.
 
 Publications
 ------
 My publications and citation record are on [Google Scholar](https://scholar.google.fr/citations?user=vsskO0AAAAAJ&hl=en)
+
+Software
+------
+At BraiNets, we develop and share several software for brain data analysis [here](https://brainets.github.io/software.html)

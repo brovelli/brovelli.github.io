@@ -1,10 +1,10 @@
 # main links links
 main:
-  - title: "Project"
+  - title: "Projects"
     url: /projects/
     
-  - title: "Code"
-    url: /code/
+  - title: "Toolbox"
+    url: /toolbox/
     
   - title: "CV"
     url: /cv/

@@ -25,7 +25,7 @@ orcid: https://orcid.org/0000-0002-5342-1330
 
 **Education** \
 2020	HDR - Habilitation à diriger des recherche (Neurosciences) from Aix-Marseille Université, Marseille, France \
-2002	PhD - PhD in Cognitive Neuroscience, International School for Advanced Studies (SISSA-ISAS), Trieste, Italie \
+2002	PhD - PhD in Cognitive Neuroscience, International School for Advanced Studies (SISSA-ISAS), Trieste, Italy \
 1998 	MSc - MSc in Physics, Imperial College, London, UK
 
 **Postdoctoral Training** \

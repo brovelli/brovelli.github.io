@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,7 +11,7 @@ redirect_from:
 
 Position
 ----- 
-Directeur de Recherche de 2e classe (DR2) CNRS \
+_Directeur de Recherche de 2e classe _ (DR2) CNRS \
 Team coordinator « Brain Networks and Learning » (BraiNets) 
 
 Contact
@@ -45,9 +45,4 @@ Selected Publications
 4. Brovelli A, Chicharro D, Badier J-M, Wang H, Jirsa V (2015). Characterization of cortical networks and corticocortical functional connectivity mediating arbitrary visuomotor mapping. Journal of Neuroscience, 35(37):12643–12658.\
 5. Brovelli A, Ding M, Ledberg A, Chen Y, Nakamura R, Bressler SL (2004). Beta oscillations in a large-scale sensorimotor cortical network: directional influences revealed by Granger causality. Proc. Natl. Acad. Sci. USA. 101:9849-9854.\
 
-------
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 

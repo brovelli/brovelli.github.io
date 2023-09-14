@@ -8,8 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-# Current projects
-
 ### CausaL
 
 Cognitive architectures of causal learning

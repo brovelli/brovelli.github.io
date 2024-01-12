@@ -15,7 +15,7 @@ Research Interests
 My research projects investigates the role of brain interactions in goal-directed learning and adaptive behaviors. The main theoretical approaches and methodology characterizing my projects are:
 - Functional connectivity and information theoretical analysis of brain interactions
 - Multimodal brain imaging and neurophysiology (MEG, intracranial EEG, LFP and fMRI)
-- Computational models of human learning (Bayesian inference and reinforcement learning)
+- Neural bases and computational models of human learning
 
 Publications
 ------

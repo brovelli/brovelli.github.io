@@ -17,7 +17,7 @@ Funding: A*Midex Aix-Marseille University 2024-2028
 
 Consortium: Andrea Brovelli (PI), Alain Barrat (CPT, Marseille)
 
-*Learning is a brain network phenomenon thought to arise from synergistic interactions between multiple brain regions. Although central, this hypothesis has never been fully tested, yet. Indeed, progress has been limited by the lack of approaches for studying brain interactions beyond pairwise relations, the so-called higher order interactions (HOIs). Our objective is to build a theoretical and data analysis framework to demonstrate the role of HOIs in human brain networks supporting causal learning. *
+_Learning is a brain network phenomenon thought to arise from synergistic interactions between multiple brain regions. Although central, this hypothesis has never been fully tested, yet. Indeed, progress has been limited by the lack of approaches for studying brain interactions beyond pairwise relations, the so-called higher order interactions (HOIs). Our objective is to build a theoretical and data analysis framework to demonstrate the role of HOIs in human brain networks supporting causal learning._
 
 ### Brain Health Trajectories (BHT)
 
@@ -27,7 +27,7 @@ Funding: PEPR Santé Numerique (ANR) 2024-2028
 
 Consortium: Andrea Brovelli & Matthieu Gilson in collaboration with Viktor Jirsa (INS, Marseille), Demian Battaglia (Strasbourg Univ), Bertrand Thirion (Paris Saclay)
 
-*Our goal is to develop tools that characterize the trajectories of brain health during aging and deviations in pathological conditions. Our project focuses on the study of fMRI data and directional network interactions using Granger causality and effective connectivity modelling*.
+_Our goal is to develop tools that characterize the trajectories of brain health during aging and deviations in pathological conditions. Our project focuses on the study of fMRI data and directional network interactions using Granger causality and effective connectivity modelling._
 
 ### EBRAINS 2.0
 
@@ -37,7 +37,7 @@ Funding: EBRAIS (EU) 2024-2027
 
 Consortium: Andrea Brovelli in collaboration with Viktor Jirsa (INS, Marseille), Daniele Marinazzo (Ghent Univ)
 
-*Our goal is to provide the tools for use of brain models in the EBRAINS ecosystem, enabling high performance simulation and parameter sweeps, model validation and inference of computational models for brain network activity*.
+_Our goal is to provide the tools for use of brain models in the EBRAINS ecosystem, enabling high performance simulation and parameter sweeps, model validation and inference of computational models for brain network activity._
 
 ## Past Projects
 

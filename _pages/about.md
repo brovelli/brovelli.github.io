@@ -1,3 +1,4 @@
+---
 permalink: /
 title: "Brain Networks and Learning"
 excerpt: "About me"

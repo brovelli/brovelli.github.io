@@ -12,10 +12,25 @@ I am a [CNRS](https://www.cnrs.fr/fr) research director in cognitive computation
 
 Research Interests
 ------
-I study the role of neural interactions in learning and adaptive behaviors across scales. I use a systems science approach intergrating:
+Neurocomputational bases of goal-directed causal learning and the role of neural interactions. I use a systems science approach intergrating:
+- Computational models of human learning (reinforcement learning and Bayesian learning models)
 - Information theoretical methods for the analysis of brain signals and network interactions
 - Multimodal and multiscale brain imaging and neurophysiology (MUA, intracranial EEG, LFP, MEG and fMRI)
-- Computational models of human learning (reinforcement learning and Bayesian learning models)
+
+Research Group (2025)
+------
+[Vinicius Lima-Cordeiro](https://scholar.google.com/citations?user=sCOvJfkAAAAJ&hl=fr) (postdoc)
+[Leonardo di Gaetano](https://leonardodigaetano.github.io/) (postdoc with Alain Barrat, CPT/AMU)
+Matteo Neri (PhD student)
+Marta Morandini (PhD student with Matthieu Gilson, INT/AMU)
+Yorgos Bardanikas (PhD student with Thomas Brochier, INT/AMU)
+Nicole Kolodziej (PhD student with Lorenzo Fontolan, INMED/AMU)
+
+Alumni
+------
+[Michele Allegra](https://micheleallegra.github.io/)
+[Ruggero Basanisi](https://scholar.google.com/citations?user=7KAqCgMAAAAJ&hl=it)
+[Etienne Combrisson](https://etiennecmb.github.io/)
 
 Publications
 ------

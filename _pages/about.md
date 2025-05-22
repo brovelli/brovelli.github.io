@@ -17,7 +17,7 @@ Neurocomputational bases of goal-directed causal learning and the role of neural
 - Information theoretical methods for the analysis of brain signals and network interactions
 - Multimodal and multiscale brain imaging and neurophysiology (MUA, intracranial EEG, LFP, MEG and fMRI)
 
-Research Group (2025)
+Research Group
 ------
 - [Vinicius Lima-Cordeiro](https://scholar.google.com/citations?user=sCOvJfkAAAAJ&hl=fr) (postdoc)
 - [Leonardo di Gaetano](https://leonardodigaetano.github.io/) (postdoc with Alain Barrat, CPT/AMU)

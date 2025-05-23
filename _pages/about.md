@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am research director in cognitive computational neuroscience at CNRS and I coordinate the [BraiNets](https://www.int.univ-amu.fr/recherche-int/equipes/brainets) team of the [Institut de Neurosciences de la Timone](https://www.int.univ-amu.fr/) at the Aix-Marseille University.
+I am research director in cognitive computational neuroscience at CNRS and I coordinate the [BraiNets](https://www.int.univ-amu.fr/recherche-int/equipes/brainets) team of the [Institut de Neurosciences de la Timone](https://www.int.univ-amu.fr/) at Aix-Marseille University.
 
 Research Interests
 ------

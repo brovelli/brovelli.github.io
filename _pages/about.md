@@ -36,8 +36,8 @@ Alumni
 
 Publications and Presentations
 ------
-Publications and citation record are on [Google Scholar](https://scholar.google.fr/citations?user=vsskO0AAAAAJ&hl=en)
-See some presentations online at https://youtube.com/@brovelli
+Publications and citation record are on [Scholar](https://scholar.google.fr/citations?user=vsskO0AAAAAJ&hl=en).
+See some presentations on my [channel](https://youtube.com/@brovelli).
 
 Software
 ------

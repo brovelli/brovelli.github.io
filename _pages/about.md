@@ -21,9 +21,10 @@ I use a systems science approach intergrating:
 Research Group
 ------
 - [Vinicius Lima-Cordeiro](https://scholar.google.com/citations?user=sCOvJfkAAAAJ&hl=fr) (postdoc)
+- Pedro Garcia (postdoc)
 - [Leonardo di Gaetano](https://leonardodigaetano.github.io/) (postdoc with Alain Barrat, CPT/AMU)
 - Matteo Neri (PhD student)
-- Marta Morandini (PhD student with Matthieu Gilson, INT/AMU)
+- [Marta Morandini](https://martamorandini.github.io/) (PhD student with Matthieu Gilson, INT/AMU)
 - Yorgos Bardanikas (PhD student with Thomas Brochier, INT/AMU)
 - Nicole Kolodziej (PhD student with Lorenzo Fontolan, INMED/AMU)
 

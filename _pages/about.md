@@ -28,12 +28,6 @@ Research Group
 - Yorgos Bardanikas (PhD student with Thomas Brochier, INT/AMU)
 - Nicole Kolodziej (PhD student with Lorenzo Fontolan, INMED/AMU)
 
-Alumni
-------
-- [Michele Allegra](https://micheleallegra.github.io/)
-- [Ruggero Basanisi](https://scholar.google.com/citations?user=7KAqCgMAAAAJ&hl=it)
-- [Etienne Combrisson](https://etiennecmb.github.io/)
-
 Publications and Presentations
 ------
 Publications and citation record are on [Scholar](https://scholar.google.fr/citations?user=vsskO0AAAAAJ&hl=en).
@@ -44,3 +38,12 @@ Software
 We develop and share several software for brain data analysis [here](https://brainets.github.io/software.html). Some examples are:
 - Frites toolbox: [Framework for Information Theoretical analysis of Electrophysiological data and Statistics](https://brainets.github.io/frites/)
 - HOI toolbox: [Higher-Order Interactions](https://brainets.github.io/hoi/)
+
+Alumni
+------
+- [Michele Allegra](https://micheleallegra.github.io/)
+- [Ruggero Basanisi](https://scholar.google.com/citations?user=7KAqCgMAAAAJ&hl=it)
+- [Etienne Combrisson](https://etiennecmb.github.io/)
+- [Nicole Voges] (https://orcid.org/0000-0002-6324-2600)
+- [Laetitia Lalla] (https://www.linkedin.com/in/laetitia-lalla-22852b61/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=fr)
+

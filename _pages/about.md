@@ -42,8 +42,8 @@ We develop and share several software for brain data analysis [here](https://bra
 Alumni
 ------
 - [Michele Allegra](https://micheleallegra.github.io/)
-- [Ruggero Basanisi](https://scholar.google.com/citations?user=7KAqCgMAAAAJ&hl=it)
 - [Etienne Combrisson](https://etiennecmb.github.io/)
-- [Nicole Voges] (https://orcid.org/0000-0002-6324-2600)
-- [Laetitia Lalla] (https://www.linkedin.com/in/laetitia-lalla-22852b61/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=fr)
+- [Ruggero Basanisi](https://scholar.google.com/citations?user=7KAqCgMAAAAJ&hl=it)
+- [Nicole Voges](https://orcid.org/0000-0002-6324-2600)
+- [Laetitia Lalla](https://www.linkedin.com/in/laetitia-lalla-22852b61/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=fr)
 

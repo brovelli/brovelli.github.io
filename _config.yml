@@ -103,14 +103,14 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : #"https://orcid.org/0000-0002-5342-1330"
+  orcid            : "https://orcid.org/0000-0002-5342-1330"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : "BrovelliAndrea"
-  bluesky          : "brovelli.bsky.social"
+  bsky             : "brovelli.bsky.social"
   vine             :
   weibo            :
   xing             :

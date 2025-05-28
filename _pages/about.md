@@ -20,7 +20,7 @@ I investigate the neural and computational bases of goal-directed causal learnin
 Publications and Presentations
 ------
 Publications and citation record are on [Scholar](https://scholar.google.fr/citations?user=vsskO0AAAAAJ&hl=en).
-See some presentations on my [channel](https://youtube.com/@brovelli).
+See some presentations on my [YouTube channel](https://youtube.com/@brovelli).
 
 Group Members
 ------

@@ -12,14 +12,17 @@ I am research director in cognitive computational neuroscience at CNRS and I coo
 
 Research Interests
 ------
-I investigate the neural and computational bases of goal-directed causal learning and adaptive behaviors.
-
-I use a systems science approach intergrating:
+I investigate the neural and computational bases of goal-directed causal learning and adaptive behaviors. I use the following approaches:
 - Computational models of human learning and active inference
-- Information theory for analysis of neural interactions
-- Multiscale brain imaging and neurophysiology (MUA, LFP, SEEG, MEG and fMRI)
+- Information theory for brain interactions analysis
+- Multiscale neurophysiology and brain imaging (MUA, LFP, SEEG, MEG and fMRI)
 
-Research Group
+Publications and Presentations
+------
+Publications and citation record are on [Scholar](https://scholar.google.fr/citations?user=vsskO0AAAAAJ&hl=en).
+See some presentations on my [channel](https://youtube.com/@brovelli).
+
+Group Members (May 2025)
 ------
 - [Vinicius Lima-Cordeiro](https://scholar.google.com/citations?user=sCOvJfkAAAAJ&hl=fr) (postdoc)
 - Pedro Garcia (postdoc)
@@ -29,14 +32,9 @@ Research Group
 - Yorgos Bardanikas (PhD student with Thomas Brochier, INT/AMU)
 - Nicole Kolodziej (PhD student with Lorenzo Fontolan, INMED/AMU)
 
-Publications and Presentations
-------
-Publications and citation record are on [Scholar](https://scholar.google.fr/citations?user=vsskO0AAAAAJ&hl=en).
-See some presentations on my [channel](https://youtube.com/@brovelli).
-
 Software
 ------
-We develop and share several software for brain data analysis [here](https://brainets.github.io/software.html). Some examples are:
+We develop and share software for brain data analysis [here](https://brainets.github.io/software.html). Some examples are:
 - Frites toolbox: [Framework for Information Theoretical analysis of Electrophysiological data and Statistics](https://brainets.github.io/frites/)
 - HOI toolbox: [Higher-Order Interactions](https://brainets.github.io/hoi/)
 

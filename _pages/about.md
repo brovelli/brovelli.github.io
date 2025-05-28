@@ -12,11 +12,12 @@ I am research director in cognitive computational neuroscience at CNRS and I coo
 
 Research Interests
 ------
-I investigate the neural and computational bases of goal-directed causal learning and adaptive behaviors. 
+I investigate the neural and computational bases of goal-directed causal learning and adaptive behaviors.
+
 I use a systems science approach intergrating:
-- Computational models of human learning (reinforcement learning and Bayesian learning models)
-- Information theoretical methods for the analysis of brain signals and network interactions
-- Multimodal and multiscale brain imaging and neurophysiology (MUA, intracranial EEG, LFP, MEG and fMRI)
+- Computational models of human learning and active inference
+- Information theory for analysis of neural interactions
+- Multiscale brain imaging and neurophysiology (MUA, LFP, SEEG, MEG and fMRI)
 
 Research Group
 ------

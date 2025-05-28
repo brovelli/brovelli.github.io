@@ -34,9 +34,9 @@ Group Members
 
 Software
 ------
-We develop and share software for brain data analysis [here](https://brainets.github.io/software.html). Some examples are:
-- Frites toolbox: [Framework for Information Theoretical analysis of Electrophysiological data and Statistics](https://brainets.github.io/frites/)
-- HOI toolbox: [Higher-Order Interactions](https://brainets.github.io/hoi/)
+We develop and share software for brain data analysis and modelling on the [BraiNets Github](https://github.com/brainets).
+- [Frites toolbox](https://brainets.github.io/frites/)
+- [HOI toolbox](https://brainets.github.io/hoi/)
 
 Alumni
 ------
